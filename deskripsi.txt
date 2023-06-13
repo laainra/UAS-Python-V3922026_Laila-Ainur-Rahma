@@ -1,0 +1,2 @@
+Data yang di ambil adalah dari website Bukalapak dengan kategori perawatan&kecantikan-> makeup wajah diambil dari halaman 2 sampai 7.
+data yang diambil antara lain: nama produk, harga, kota, rating.
